@@ -1,27 +1,25 @@
-title: WY Chow Lab
-url: "https://www.wychowlab.org"
-baseurl: ""
-tagline: Using magnetic resonance to deliver new insight to human health and disease.
-description: We use solid-state NMR spectroscopy to bring new insight to biomolecules in the extracellular matrix that are relevant to human health and disease. We are based at the University of Warwick, UK. 
+title: ME-Well Lab
+url: "https://www.me-well-lab.github.io"
+baseurl: "https://www.me-well-lab.github.io"
+tagline: xx
+description: xx 
 
 # seo-tag info
 author:
-  twitter: wingyingchow
-  name: Wing Ying Chow
-  image: /img/people/ying.jpg
-  url: https://www.wychowlab.org/
+  twitter: Xin_Tang_Finn
+  name: Xin Tang
+  image: /img/people/xintang.jpg
+  url: https://www.me-well-lab.github.io/
 twitter:
-  username: wingyingchow
+  username: Xin_Tang_Finn
   card: summary_large_image
 social:
-  name: Wing Ying Chow
+  name: Xin Tang
   links: 
-    - https://twitter.com/wingyingchow
-    - https://orcid.org/0000-0003-0719-5958
-    - https://scholar.google.com/citations?user=IIFksEIAAAAJ&hl=en
-    - https://www.linkedin.com/in/wingyingchow/
-    - https://www.researchgate.net/profile/Wing-Ying-Chow
-    - https://github.com/selkieupsilon
+    - https://twitter.com/Xin_Tang_Finn
+    - https://orcid.org/0000-0002-0155-4967
+    - https://scholar.google.com/citations?hl=en&user=mlBEMRYAAAAJ
+    - https://www.researchgate.net/profile/Xin-Tang-25
 locale: en_GB
 logo: /img/logo.png
 
