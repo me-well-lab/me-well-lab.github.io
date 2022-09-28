@@ -1,20 +1,20 @@
-Website for Wing Ying Chow's Lab at University of Warwick, UK
+Website for Xin Tang's Lab at Shanghai Jiao Tong University, China
 =============================================================
 
-[https://wychowlab.org/](https://wychowlab.org/)
+[https://me-well-lab.github.io/](https://me-well-lab.github.io/)
 
 
 Background
 =======================
 
-This is a [Jekyll][]-based Web site based on the work of the [sampa][] group at the University of Washington. It was forked from [this repository][uwsamparepo] and detached after significant modifications.
+This is a [Jekyll][]-based Web site based on the work of the [wychowlab][] group at the University of Warwick. It was forked from [this repository][uwsamparepo] and detached after significant modifications.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][license].
 
 [Jekyll]: http://jekyllrb.com/
-[sampa]: http://sampa.cs.washington.edu/
+[wychowlab]: https://www.wychowlab.org/
 [license]: https://creativecommons.org/licenses/by-nc/4.0/
-[uwsamparepo]: https://github.com/uwsampa/research-group-web
+[uwsamparepo]: https://github.com/wychowlab/research-group-web
 
 Modifications from uwsampa template
 --------
